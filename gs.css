@@ -1,0 +1,22 @@
+.speech {
+    color: black;
+    font-size: medium;
+    font: 100;
+}
+.direction{
+    color:black;
+    font:200;
+    font-size: small;
+    background-color:cadetblue;
+}
+.direction:hover{
+    background-color: bisque;
+    color: aqua;
+}
+.kate{
+    color:coral;
+}
+.ladysims{
+    color:aquamarine;
+}
+
