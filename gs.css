@@ -7,7 +7,7 @@
     color:black;
     font:200;
     font-size: small;
-    background-color:cadetblue;
+    background-color:rgb(193, 221, 222);
 }
 .direction:hover{
     background-color: bisque;
@@ -15,9 +15,18 @@
 }
 .kate{
     color:coral;
+    
+}
+.kate:hover{
+    text-shadow: 3px 3px red, -1em 0 .4em olive;
+
 }
 .ladysims{
     color:aquamarine;
+}
+.ladysims:hover{
+    text-shadow: 3px 3px red, -1em 0 .4em olive;
+
 }
 
 table {
