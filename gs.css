@@ -20,3 +20,27 @@
     color:aquamarine;
 }
 
+table {
+    border: 1px solid black;
+    padding: 8px;
+    color:black;
+    text-align: center;
+    margin: 30px;
+    
+}
+th, td{
+    border: 1px solid black;
+    /**/
+
+}
+
+thead tr:nth-child(even) {
+    background-color: grey;
+    color:black;
+}
+
+tbody tr:nth-child(odd){
+    background-color:grey;
+    color: white;
+}
+
